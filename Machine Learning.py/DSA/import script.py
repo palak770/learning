@@ -1,2 +1,0 @@
-import script
-script.greet()

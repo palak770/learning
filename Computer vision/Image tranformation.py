@@ -32,3 +32,4 @@ plt.subplot(222), plt.imshow(img_right), plt.title('Right')
 plt.subplot(223), plt.imshow(img_top), plt.title('Top')
 plt.subplot(224), plt.imshow(img_bottom), plt.title('Bottom')
 plt.show()
+
